@@ -1,0 +1,228 @@
+; 50-06 1-180 
+; 19-25 181-220
+; 43-53 1-40
+; 57-08 41-120
+; 08-23 121-156
+; 27-32 157-200
+; 36-39 201-220
+; 每行之間以Tab分隔。第一行是集數，第二行是標題（以wiki上面列出的為準），第三行是影片代碼。
+1	為什麼流行歌聽起來都這麼像？	wxJImbUCyJw
+2	十分鐘以內，一次搞懂所有的現代和弦代號！	I0y2LY4sPZA
+3	和弦只要加「2」就會比較厲害？	Zvf2HtrtDTI
+4	和弦有什麼功能？	kMlJSwFAiTU
+5	和弦還有什麼功能？（續集）	1USZt8fx82U
+6	這是什麼鬼音？（Ghost Notes）	Bvca0hrwMhg
+7	什麼是「12 小節藍調」？（12-bar blues）	WId0K_X0MHc
+8	八分鐘以內，一次搞懂音程名稱！	QLDktqMxgmY
+9	分解和弦伴奏的始祖，阿貝爾替低音！（Alberti Bass）	lmo36o2DExs
+10	超級簡單的流行抒情歌伴奏！	HmrMNyO91dQ
+11	更有節奏感的流行歌伴奏！	L7SDIsll378
+12	Solresol！如何用音符來說話？	pY-JFiTZ-j8
+13	走路低音！（Walking Bass）	BBEs5ZvDPjU
+14	什麼是「終止式」？	seA0s6bJYg0
+15	更多終止的方式！（續集）	XMZLDE4xONA
+16	大和弦的四種口味！	ZDqxj3Ax8LU
+17	如何寫出動感的低音線條？	tQUC2_xWKl0
+18	很潮的屬 11 和弦！	EdT1xi4qtT4
+19	很爵士的屬 13 和弦！	QrlKaia9Tcs
+20	第 20 集特別節目！好和弦幕後製作大解密！	7cwGxgb9HU4
+21	什麼是大調和小調？	T70L-t60j5c
+22	小調的三種模式：自然／和聲／旋律小音階！	L2mY-jyFjUY
+23	搞懂七種調式，以及永遠把它們的名字記起來！	XdDpSGEdIbo
+24	Ionian/Dorian/Aeolian 調式！	WExmjdfPN64
+25	Phrygian 和 Lydian 調式！	TvQVqR8ISVo
+26	Mixolydian 和 Locrian 調式！	Eh7WiwgCGrQ
+27	神秘魔法棒和全音音階！	K-yKM_Tjfqw
+28	副屬和弦！	7YqlnTxgIzY
+29	很酷炫的「三全音代理」和弦！	Wdn1acmup5g
+30	讓你的副屬和弦更漂亮的小技巧！	yMcz-w_jRhQ
+31	3 種簡單又實用的鋼琴伴奏模式！	UqS7JUKjDgY
+32	很簡單的 Dorian 調式即興練習！	o7dGlZAMKi0
+33	兩個調式來回切換，聽起來更厲害的即興！	VgOcBzwE9GM
+34	用藍調音階來即興！	BjhkClSUdYM
+35	用 Sus2 和 Sus4 和弦，讓和聲進行更有趣！	TLOvkt2sFmg
+36	用 Dm/C 和其他和弦來裝飾 C 和弦！	TUDSBWyKXRg
+37	拿坡里和弦！	luWS1ehQiaw
+38	什麼是「五聲音階」？（因私人原因已刪除）	X7WDDz_gRFo
+39	用五聲音階來即興！	Qckpdfttxzk
+40	第 40 集特別節目，好和弦的 Ask Me Anything！	vgYK08LPM7E
+41	大和弦裡的第 11 度音？	SWiPsLWzPNo
+42	超酷炫的屬和弦變化音！	I5QAYeyEDUI
+43	小 11 和弦！	CIvPiX787HI
+44	更多小 11 和弦的使用方法！	Kw8bmvS-SHM
+45	什麼是「借用和弦」？	T-HaSe8407o
+46	一次搞懂「泛音列」！	0iJmDhNocaQ
+47	動機發展：寫旋律時，沒有靈感怎麼辦？	OpUFjR4Xv_o
+48	要怎麼聽起來像是 007？	4-yZT3HlG1U
+49	什麼是 Altered Scale？	0VahYDZci9E
+50	鄰音、經過音和倚音！	ZQUGFQZX04
+51	用高低半音接到目標和弦！	K7ed165UIfk
+52	用 2-5-1 和弦進行，漂亮地轉調！	J9J6RPvPXlw
+53	法國帥哥鋼琴家最愛的伴奏模式！	XtgA4mbS-wQ
+54	琶音伴奏：音跟音應該離多遠？	WaSJuCdY2hU
+55	數字低音！	I5EPcOykrc
+56	如何幫一個旋律配上和弦？	WT_hnImTfNM
+57	用 C, G7, Dm 和 F 來配和弦！	bVzGlrAhY4I
+58	使用大調的 1 到 6 級來配和弦！	sg2Jey-vwG0
+59	副屬和弦怎麼用？	L3BrKc11gYk
+60	升級成 add2 和 m7、以及一個新的思考方法	ejNCQw9HElM
+61	旋律是什麼音的時候可以配 C 和弦？（提示：比你想像中的多）	Fv29zWEmNGM
+62	旋律是什麼音的時候可以配上 C7 和弦？（提示：比你想像中還多）	MgT-skV8QGA
+63	考大學音樂系的樂理，到底在考什麼？	044oJU6QXdg
+64	什麼是「減和弦」？	X69cSl2BeY4
+65	半減七和弦！	2jHyteJq1BQ
+66	和弦與音階的對應關係？	ofN10F0er2c
+67	終止六四和弦！	wAau7ghNnmU
+68	經過六四和弦！	ildcShKvagk
+69	持續低音六四和弦！	6NBARcJ36dA
+70	好和弦分析林宥嘉的《兜圈》，以及 4 個讓下行低音更有新鮮感的技巧！	zmqsdyQFKOk
+71	用很簡便的思考方式，讓屬和弦聽起來更酷炫	yrxNy5ey7dE
+72	「卡農」和聲進行，以及為什麼很多流行歌的旋律都很像	wU3jriu1wAE
+73	什麼是「移調樂器」？	4JhF3j0ZfGI
+74	皮卡第三度！如何出乎意料地使用大和弦？	9uFS7NBdAMA
+75	半音階下行的和聲進行！	FnAk-sEqmlw
+76	用屬和弦來結尾！	bJ2HBW4BZvI
+77	十分鐘之內，一次搞懂「單拍子」和「複拍子」！	j2V_hIZ5INs
+78	不正常的拍子？	2Dio-G_qWGc
+79	強拍、弱拍和「多層級」的拍子	EFvbzeFdpek
+80	切分節奏！	okL7C55O47w
+81	如何把一個旋律編成鋼琴獨奏曲？	QtjMyV17Et4
+82	如何寫出與眾不同的和聲進行？	ELxQ1MJBfy8
+83	什麼是「增六和弦」？	HeLlrgCCnFc
+84	為什麼厲害的人彈同一個和弦，就是比你好聽一點點？	e7MHRI5Is98
+85	為什麼你可以聽到旋律？	NQkraA1I4VM
+86	為什麼厲害的人彈同一條旋律，就是比你更有層次感？	dJWlhTfjbuw
+87	為什麼厲害的人彈同一串音，聽起來就是比你清楚？	1QY3jujoZlE
+88	好和弦教你如何 Swing！	vIGoV2XRPI0
+89	為什麼厲害的人，視譜可以這麼快？	O9fGrstjt8k
+90	好和弦分析五月天《後來的我們》，順便一次搞懂流行歌曲式！	uMSr4XXfKO8
+91	如何彈出又帥氣又糾結的屬七和弦？	GhrXnVxcW9I
+92	上下「夾擊」目標音，讓你的旋律變得更有趣！	p3ga3FLCHRQ
+93	如何使用「第一轉位」？	Nf-1R-Qr0mE
+94	一個步驟，利用高低半音讓你的和弦更有現代感！	F4sm16EiAQI
+95	如何寫作「隆重登場」的配樂？	LkZClhcJpwQ
+96	如何練音階？	bAd5Umg9WK4
+97	十分鐘之內，學會用電腦製作樂譜！（MuseScore）	LAOM7JiDp4E
+98	全新的和弦配置思考法！	aNdjUpXySxQ
+99	隨機挑選和弦，亂接也可以！	Gz5XByv4oaU
+100	好和弦的第 100 集！	n3Ny96nByyc
+101	好和弦教你在任何和弦進行上面寫旋律！	OW9df-MHVfw
+102	用很簡單的音，在複雜的和弦進行上面即興！	FrMMZKf-fHY
+103	為什麼超級瑪莉會聽起來像是超級瑪莉？	lAEIrown7GI
+104	音符的「心理分組」？	oRCqxtQsBJw
+105	如何自己在家裡訓練音感？	2ueyqx4rDCM
+106	11 個給創作者的秘訣：如何不要每次都寫出一模一樣的歌？	smVaAr2yj7U
+107	為什麼鋼琴音不準的時候，聽起來會像是音不準？	qSztFE--FuA
+108	用簡單的「照樣造句」練習，來更了解作曲家的思考方式！	ufISmjDSi-M
+109	瑪莉歐終止式？	AGzQyXSYsGk
+110	如何利用微妙的時間差，做出帥帥的節奏？	qWjBLiaZM9k
+111	電磁波、七色彩虹和 65 歲的早餐店老闆！	mqPUfBE4UMQ
+112	為什麼「八度」很重要，以及住在希臘的聰明男人	rpZV2YO4LJA
+113	畢達哥拉斯怎麼找到 Do Re Mi？	p6f__AYhqUA
+114	「狼五度」和不負責任的音樂學家	Mf6XgBijyvQ
+115	中庸全音律，以及關於 Do-Sol 和 Do-Mi 的故事	P-FexskXLTQ
+116	算盤神，以及不平均的平均律	HkzHF147ZjE
+117	一次搞懂，在家做音樂需要的基本配備！	o2Q0l5xbZfw
+118	超簡單又實用，只用三個音的和弦配置！	wWBrLETwnv4
+119	如何把一個主旋律，編成任何你想要的樂器編制？	ocZs1nMg2dQ
+120	好和弦的第 120 集！	9RIVAWJ78Uo
+121	如何連續堆疊副屬和弦，以及好和弦家庭號大包裝 6 登場！	06ZsNvJDGAY
+122	如何連續堆疊教會終止？	hsYeJvf-1gw
+123	負面和聲？（Negative Harmony）	-ionAPibrpg
+124	如何寫「中國風」的音樂？	P4GTyNivTao
+125	如何買你的第一支麥克風？	SSIuZxqVWKE
+126	如何控制音樂的「緊湊度」？	55EmDyisczQ
+127	一起來玩「持續低音」！	XThzXBW_1qY
+128	繼續來玩「持續音」！（續集）	Q7pfR30_jq4
+129	一起來玩「恆定結構」！（Constant Structure）	dYttkMcUhCU
+130	要怎麼知道一首曲子應該彈多快？	B1gaelcde8s
+131	節拍器的故事！	ZZ4vMOqTu80
+132	蕭邦大師教你玩「半音階」！	BO4exwMtfkE
+133	會不會有一天，所有的音樂都被寫完了？	_qLyxNpqpDs
+134	拉赫曼尼諾夫大師，一次教你 10 個半音階和聲技巧！	HsyqaqMDKLo
+135	什麼是「畫素」，以及聲音檔案裡面到底裝了什麼？	X88XH7SLdZo
+136	好和弦的旁白聲音後製流程！	FjiTfm4Relc
+137	挑戰 MP3 檔案的壓縮極限！	U7BTYMJ2_7w
+138	想寫得像莫札特嗎？這樣寫就對了！	r6k1Qw-ClbY
+139	來聊聊 PC Speaker！	4oh5rHcRgDU
+140	好和弦分析五月天的《成名在望》！	ElGBcoSurLY
+141	來聽人類歷史上的第一個錄音！	w663goowP54
+142	非功能和聲（Non-functional Harmony）	uRa3xbKBf8M
+143	非功能和聲：只用兩個和弦製造各種感覺！	ErTB5uTU-EE
+144	低音程限制：為什麼你不該使用電鋼琴上的移調鍵？	hV7UK9O7xxs
+145	為什麼休止符很重要？	UrXZwd048o8
+146	沒有靈感怎麼辦：「特徵清單」抄襲法	8fmfuqP4Dw8
+147	一起來玩鍵盤鼓！	uNS6-L1pT78
+148	爵士鼓記譜，和你的第一個鍵盤鼓節奏	YYT-B2mx0g4
+149	鍵盤鼓：如何「董資董資」？	BlV8rjTE620
+150	鍵盤鼓：Bossa Nova、Swing Jazz 和五種好用的過門！	o326ksl9A1M
+151	取樣機：如何只用一個寶特瓶做一首曲子？	t70Wi_eqUhc
+152	動手做 PC Speaker 音樂！（DOSBox + QuickBASIC）	8wKswMaQE0k
+153	五線譜：一次搞懂所有你該知道的、基本的事情。	qkt5X_4FJBY
+154	來聊聊 1-6-2-5 和弦進行！	gnyaGbiktM8
+155	永無止境往下掉的聲音！	miLrgBrj96Q
+156	如何讓聲音有「立體感」？	2RWuR_By2yQ
+157	音高校正軟體：為什麼唱片裡的歌手音都那麼準？	DIJowZJFtlg
+158	鋼琴下面那三個踏板到底是做什麼用的？	vOqEKw1zsgI
+159	鋼琴的右踏板應該踩多深？	7mFHHiI1qAo
+160	彈鋼琴要怎麼「換踏板」？（提示：沒有你想的那麼簡單）	4__iwk9Z4_0
+161	厲害的人不告訴你的祕技：用鋼琴的右踏板控制共振！	nLN8Gz9MJJs
+162	20 個關於鋼琴踏板的小秘訣！	-aDk5KIRHis
+163	數位鋼琴的踏板，跟真的鋼琴一樣嗎？	wq2KjhKhJN8
+164	Ｑ＆Ａ！好和弦解答你的鋼琴踏板問題！	ClVzb_0CzLg
+165	如何去除音樂中的人聲？	OTG_oj_uVKg
+166	如何用鋼琴彈出任何風格的伴奏？	pfST8tdbFpw
+167	如何用鋼琴彈 Bossa Nova？	4ETH5uXqkpI
+168	JR 唱「美女與野獸」！10 種流行抒情歌鋼琴伴奏～	VkhnRkX06AQ
+169	如何用鋼琴 Uptown Funk？	NnlPngqM_Kw
+170	如何在鋼琴上彈 Swing Jazz？	6ctosWmOWnk
+171	如何用鋼琴來「曼波」和「恰恰恰」？	xm4_tzRvFWs
+172	「Laurel」和「Yanny」傻傻分不清楚？好和弦幫你解答！	IaD-AsurQXg
+173	好和弦如何架麥克風？NT$499 和 NT$4,800 的麥克風架大對決！	5y0b_oQk_bg
+174	如何用鋼琴彈「灌籃高手」，或其他搖滾風格的伴奏？	tffblKERkUQ
+175	4 個在鋼琴上彈出「爵士味」的技巧，以及學習如何仔細聽音樂！	IQ8Y97YEUXQ
+176	取樣機：來把嘎老師變成電子樂器吧！（feat. Miss Ga 嘎老師）	NbSS8Dreti8
+177	好和弦教你如何雷鬼（Reggae）！	TtV_DylvyTk
+178	如何自己製作聲控遊戲？（聲控乒乓球）	llWD5l-YHkI
+179	超簡單又厲害的編曲軟體 - PixiTracker！	hciSF-wGlyc
+180	把 How 哥也放進 PixiTracker 裡吧！（How 哥射了之歌）	QsLe_g8Umyg
+181	音效設計：向 YouTube 本季最成功的廣告學習！	3PeuF72HRYM
+182	人工智慧能讀你的心？情緒偵測器大挑戰！（feat. JR Lee & 檸檬卷）	u-QW3F3XCWQ
+183	如何只用三個音就寫出洗腦廣告歌？（Oppo & 7-11）	eVRXjoZfuls
+184	要怎麼知道一首曲子是什麼調？	g5waQ35zJSk
+185	如何練好「二對三」和「三對四」節奏？	b9mUd6vJ_vU
+186	管弦樂器懶人包：一部影片就認識最常見的管弦樂團樂器！	7ZDGgmN8atM
+187	五分鐘之內，來學會一個新的音階吧！（Diminished Scale）	2JOjz19r-JE
+188	來用 Diminished Scale 寫出似乎很複雜的旋律吧！	qSdyMUMFJ3s
+189	12 小節藍調還可以怎麼玩？5 種讓它更有趣的技巧！	5NgiaHbSH3A
+190	AAB！從政府文宣到 12 小節藍調都能用的技巧！	mPgXKVHUKmg
+191	小提琴跟中提琴有什麼不一樣？如何幫它們作曲？	fjWE3TbfcuI
+192	小提琴和中提琴到底有多少種拉法？	2kK25O_Cpk8
+193	小提琴能不能自拉自唱？把位到底有幾個？以及其他更多的小／中提琴 Q&A！	tQCB21KGrGA
+194	最新科技！人工智慧現在可以去除專輯中的人聲了？！	Zp8Q3wJKKhA
+195	分兩層！用一隻手同時彈主旋律和伴奏～	u6QsoscoYjY
+196	跟「博恩夜夜秀」和「超級瑪利歐派對」學習進階樂理！	oRSJTyvfX9Q
+197	捷運站的刷卡聲有什麼涵義？捷運站有自己的背景音樂？來聊聊「環境音樂」吧！	fEFrU2a21xc
+198	我是怎麼做出「柯媽媽」影片的？以及丁丁到底唱了什麼？	xrbxOt84PfM
+199	什麼是「五聲音階」？（Pentatonic Scale）	FqN8H-Ut_ks
+200	好和弦 200 集 / 20 萬訂閱 / 4 週年 Q & A	47UuHhq3KLA
+201	減七和弦的「神秘添加物」？以及另一種酷炫的結尾法！	b-7V-b1nMDM
+202	來把電玩配樂，編成鋼琴獨奏曲吧！(Chrono Trigger - Secret of the Forest）	DER7-giA52Q
+203	來 Cover 台北捷運紅線的進站音樂！	wHBhX4ldCZ8
+204	不要再犯了！9 種最常見的初學者寫譜錯誤～	EstyZ4Obepk
+205	亂配和弦，就可以把簡單的旋律變成 Jazz Fusion！	uyO1LK80m7w
+206	聲音檔案的「解析度」，以及你為什麼需要 24 位元錄音！	Akl1GLZcfgQ
+207	來 cover 台北捷運綠線的列車進站音樂！（不會彈吉他要怎麼編吉他？）	r6eC-BUYPLA
+208	如何只用「純文字」，隨時隨地打出漂亮的五線譜？（LilyPond）	1e9_zfTQ7kM
+209	美金 99 元的去人聲軟體！好不好用？（AudioNamix XTRAX STEMS 2）	dtiGSnjPscA
+210	如何看簡譜，以及用電腦打簡譜？	aKz_HIh-fF0
+211	哪有可能？！只要聽鍵盤的聲音，就可以知道別人打了什麼字？	2xCICHh4Pas
+212	你有在用 add6 和弦嗎？來討論大和弦中的六度音！	b9kQm3weBlE
+213	讓 Google 的人工智慧巴哈幫你配和弦！順便來聊聊四部和聲吧～	HgnIJFwcyBk
+214	在樂團裡，Keyboard 手到底該如何按和弦？	_gp14VSyy18
+215	一部影片之內，真的完全搞懂「五度圈」！（Circle of Fifths）	EyF7EBnmdEs
+216	如何把腳底按摩師變成太鼓達人？	7CHETjHqI5w
+217	MC Hotdog、五月天、音速小子都愛用的 4-3-2-1 和弦進行！	tyrhdYfkVkI
+218	只有木耳，也可以抓出歌曲裡的和弦嗎？	DA3-sINdvHk
+219	4 個不可不知的爵士鋼琴和弦配置，馬上學起來用吧！	15hlC_PCqjw
+220	小大七和弦！（Minor-major Seventh Chord）	RTCxSug8axY
