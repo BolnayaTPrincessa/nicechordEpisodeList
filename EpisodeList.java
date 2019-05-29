@@ -9,6 +9,7 @@ import java.io.InputStreamReader;
 import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
 import java.io.Serializable;
+import java.io.UnsupportedEncodingException;
 import java.util.ArrayList;
 
 public class EpisodeList implements Serializable {
@@ -48,11 +49,33 @@ public class EpisodeList implements Serializable {
 	/**
 	 * Convert the EpisodeList object back into plain text raw data. 
 	 */
-	@ Override
+	@Override
 	public String toString() {
 		String a = "";
 		for (int i = 0; i < title.size(); i++) {
-			a = a.concat((i + 1) + "\t" + title.get(i)+ "\t" + videoCode.get(i) + "\n");
+			a = a.concat((i + 1) + "\t" + title.get(i) + "\t" + videoCode.get(i) + "\n");
+		}
+		return a;
+	}
+	/**
+	 * Same as toString(), except without video codes.
+	 * @return Episode number, together with title.
+	 */
+	public String outputTitle() {
+		String a = "";
+		for (int i = 0; i < title.size(); i++) {
+			a = a.concat((i + 1) + "\t" + title.get(i) + "\n");
+		}
+		return a;
+	}
+	/**
+	 * Same as toString(), except without titles.
+	 * @return Episode number, together with video code.
+	 */
+	public String outputVideoCode() {
+		String a = "";
+		for (int i = 0; i < title.size(); i++) {
+			a = a.concat((i + 1) + "\t" + videoCode.get(i) + "\n");
 		}
 		return a;
 	}
@@ -72,26 +95,59 @@ public class EpisodeList implements Serializable {
 	/**
 	 * Read a text file and convert it into an EpisodeList object.
 	 * @return
-	 * @throws FileNotFoundException
 	 * @throws IOException
 	 */
-	public static EpisodeList parse() throws FileNotFoundException, IOException {
-		BufferedReader br = new BufferedReader(new InputStreamReader(new FileInputStream("nicechord-episode-list.txt"),"UTF-8"));
+	public static EpisodeList parse() throws IOException {
+		BufferedReader br = new BufferedReader(new InputStreamReader(new FileInputStream("nicechord-episode-list.txt"), "UTF-8"));
 		EpisodeList list = new EpisodeList();
 		String line = "";
 		while (line != null) {
 			line = br.readLine();
-			// System.out.println(i + ": " + line);
 			if (line == null) break; // EOF
 			if (line.isEmpty()) continue; // Ignore empty lines
 			if (line.startsWith(";")) continue; // Ignore lines starting with ";"
 			String[] a = line.split("\t");
-			// System.out.println(i + ": " + a[1] + ", " + a[2]);
 			list.title.add(a[1]);
 			list.videoCode.add(a[2]);
 		}
 		br.close();
 		return list;
+	}
+	/**
+	 * Read a title list from a text file and add it to an existing list.
+	 * @throws IOException
+	 */
+	public void parseTitle() throws IOException {
+		BufferedReader br = new BufferedReader(new InputStreamReader(new FileInputStream("title-only.txt"), "UTF-8"));
+		videoCode = new ArrayList<String>(); // Clear existing title list
+		String line = "";
+		while (line != null) {
+			line = br.readLine();
+			if (line == null) break; // EOF
+			if (line.isEmpty()) continue; // Ignore empty lines
+			if (line.startsWith(";")) continue; // Ignore lines starting with ";"
+			String[] a = line.split("\t");
+			title.add(a[1]);
+		}
+		br.close();
+	}
+	/**
+	 * Read a video code list from a text file and add it to an existing list.
+	 * @throws IOException
+	 */
+	public void parseVideoCode() throws IOException {
+		BufferedReader br = new BufferedReader(new InputStreamReader(new FileInputStream("video-code-only.txt"), "UTF-8"));
+		title = new ArrayList<String>(); // Clear existing video code list
+		String line = "";
+		while (line != null) {
+			line = br.readLine();
+			if (line == null) break; // EOF
+			if (line.isEmpty()) continue; // Ignore empty lines
+			if (line.startsWith(";")) continue; // Ignore lines starting with ";"
+			String[] a = line.split("\t");
+			videoCode.add(a[1]);
+		}
+		br.close();
 	}
 	/**
 	 * Export the episode list as a serialized object.
