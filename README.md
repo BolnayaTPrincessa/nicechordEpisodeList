@@ -12,6 +12,6 @@ A machine-readable list of all NiceChord episodes. This includes episode numbers
 * * 以“;”開頭的行都是註解。
 * * 每欄之間以Tab隔開。第一欄是集數，第二欄是標題（按wiki上的為準，可能與其他地方的標題有出入），第三欄是對應的YouTube影片代碼。
 * Java序列化物件
-* * 可以以附上的Java腳本序取。使用<code>EpisodeList.load();</code>以載入檔案。使用<code>getTitle(int i)</code>可以取得提定集數的標題。使用<code>getVideoCode(int i)</code>可以取得提定集數的影片代碼。
+* * 可以以附上的Java腳本存取。使用<code>EpisodeList.load()</code>以載入檔案。使用<code>getTitle(int i)</code>可以取得提定集數的標題。使用<code>getVideoCode(int i)</code>可以取得提定集數的影片代碼。
 
 需要其他格式的話可以自己轉換或者聯絡我，亦歡迎其他人上傳其他格式到這裏。
