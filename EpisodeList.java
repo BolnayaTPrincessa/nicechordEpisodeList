@@ -9,10 +9,13 @@ import java.io.InputStreamReader;
 import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
 import java.io.Serializable;
-import java.io.UnsupportedEncodingException;
 import java.util.ArrayList;
 
 public class EpisodeList implements Serializable {
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 7477950530292169106L;
 	private ArrayList<String> title = new ArrayList<String>();
 	private ArrayList<String> videoCode = new ArrayList<String>();
 	
