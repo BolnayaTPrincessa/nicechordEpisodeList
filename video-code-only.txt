@@ -1,3 +1,4 @@
+; 每行之間以Tab分隔。第一行是集數，第二行是影片代碼。
 1	wxJImbUCyJw
 2	I0y2LY4sPZA
 3	Zvf2HtrtDTI
