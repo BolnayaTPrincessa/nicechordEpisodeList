@@ -1,4 +1,5 @@
 ; 每行之間以Tab分隔。第一行是集數，第二行是影片代碼。
+; 不同的第一手來源之間的部分集數順序自相矛盾，這裡依據發佈次序重新修正，wiki上的集數列表有列出修正集數與大包裝集數的差異。
 1	wxJImbUCyJw
 2	I0y2LY4sPZA
 3	Zvf2HtrtDTI
@@ -239,3 +240,7 @@
 238	KWPet0n6l90
 239	U55KRu68ls8
 240	W_UyQqiocCw
+241	M9NIwg-643s
+242	8nmSsjQgO7s
+243	QvwLLkCgbUI
+244	WxbPlCRaDes
